@@ -1,5 +1,11 @@
 # OpenNI 2 Kinect v2 Driver #
 
+
+
+### ATTENTION: This is a stale version of the driver. Please, find the most updated version at: https://github.com/occipital/OpenNI2/tree/kinect2 ###
+
+
+
 ## Contributors ##
 
 Miguel Angel Vico
